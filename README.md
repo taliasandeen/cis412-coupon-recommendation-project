@@ -15,7 +15,7 @@ This satisfies the project deployment requirement and provides a fully interacti
 ## 🚀 Live Streamlit App (Deepnote)
 You can run the interactive model here:
 
-🔗 **Streamlit App:** *(insert your Deepnote Streamlit link here)*
+🔗 **Streamlit App:** https://deepnote.com/streamlit-apps/1dff3afe-12ec-4c0e-a908-2a0e21c47d5a?utm_content=f167eb1c-f8c3-46e3-8ad0-eec822609986) 
 
 ---
 
