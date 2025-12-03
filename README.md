@@ -1,4 +1,4 @@
-# 🚗 In-Vehicle Coupon Recommendation – CIS 412 Final Project
+# In-Vehicle Coupon Recommendation – CIS 412 Final Project
 
 This repository contains the full deployment package for our CIS 412 final project, including:
 
@@ -12,14 +12,14 @@ This satisfies the project deployment requirement and provides a fully interacti
 
 ---
 
-## 🚀 Live Streamlit App (Deepnote)
+## Live Streamlit App (Deepnote)
 You can run the interactive model here:
 
 🔗 **Streamlit App:** https://deepnote.com/streamlit-apps/1dff3afe-12ec-4c0e-a908-2a0e21c47d5a?utm_content=f167eb1c-f8c3-46e3-8ad0-eec822609986) 
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -31,7 +31,7 @@ You can run the interactive model here:
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 The objective of this project was to analyze factors that influence drivers’ decisions to accept in-vehicle coupons and use classification models to predict acceptance.
 
@@ -46,7 +46,7 @@ The result is a fully working deployment where any instructor or user can modify
 
 ---
 
-## 🛠️ How to Run the Streamlit App Locally
+## How to Run the Streamlit App Locally
 
 ### 1. Clone the repository
 ```bash
