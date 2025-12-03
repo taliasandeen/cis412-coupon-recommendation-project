@@ -16,6 +16,7 @@ This satisfies the project deployment requirement and provides a fully interacti
 You can run the interactive model here:
 
 🔗 **Streamlit App:** https://deepnote.com/streamlit-apps/1dff3afe-12ec-4c0e-a908-2a0e21c47d5a?utm_content=f167eb1c-f8c3-46e3-8ad0-eec822609986) 
+🔗 **Deepnote Link:** (https://deepnote.com/workspace/DAT402-1-a03b38dc-62a2-4dd9-a213-8fe5d29df040/project/CIS-412-Final-Project-f167eb1c-f8c3-46e3-8ad0-eec822609986/app.py?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=f167eb1c-f8c3-46e3-8ad0-eec822609986) 
 
 ---
 
